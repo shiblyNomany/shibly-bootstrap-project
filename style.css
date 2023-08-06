@@ -92,7 +92,7 @@ header{
     color: white !important ;
     padding-left: 29px !important;
     font-family: 'Jost', sans-serif;
-    font-size: 41px !important;
+    font-size: 25px !important;
     letter-spacing: 2px;
 }
 
@@ -109,10 +109,10 @@ header{
 
 .navbar-light .navbar-nav .nav-link {
     color: white !important;
-    font-size: 19px !important;
+    font-size: 15px !important;
     font-family: 'Open Sans', sans-serif;
     transition: all 1s ease;
-    padding: 10px 20px;
+    padding: 5px 5px;
 }
 
 
@@ -589,7 +589,7 @@ background-color: #2f55a4 !important;
 }
 .clint-col-div{
     background-color:white;
-    max-width: 500px !important;
+    /* max-width: 500px !important; */
     transition: all .5s ease;
      
 }
@@ -599,7 +599,7 @@ background-color: #2f55a4 !important;
 
 .clint-col-div-2{
     background-color:white;
-    max-width: 500px !important;
+    /* max-width: 500px !important; */
     transition: all .5s ease;
  
     /* margin-right: 68px !important; */
