@@ -133,7 +133,7 @@ padding: 10px 20px;
     padding: 10px 30px;
     text-decoration: none;
     color: white;
-    font-size: 19px !important;
+    font-size: 13px !important;
     font-family: 'Open Sans', sans-serif;
     transition: all 1s ease;
   
@@ -407,7 +407,7 @@ background-color: #2f55a4 !important;
 }
 #service-card-one{
     background-color:white ;
-    max-width: 520px;
+  
     margin-right: 10px;
     margin-left: 25px;
     box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
@@ -422,7 +422,7 @@ background-color: #2f55a4 !important;
 
 #service-card-two{
     background-color:white ;
-    max-width: 520px;
+    
     margin-left: 10px;
     box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
     transition: all .5s ease;
@@ -591,6 +591,7 @@ background-color: #2f55a4 !important;
     background-color:white;
     /* max-width: 500px !important; */
     transition: all .5s ease;
+    margin-left: -96px;
      
 }
 .clint-col-div:hover{
@@ -601,6 +602,7 @@ background-color: #2f55a4 !important;
     background-color:white;
     /* max-width: 500px !important; */
     transition: all .5s ease;
+     
  
     /* margin-right: 68px !important; */
      /* margin-right: 167px; */
